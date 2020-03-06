@@ -1,4 +1,4 @@
-# Lab6-LinkedList
+# linked_list
 
 ## Description
 Builds a Linked List that performs several standard operations.
